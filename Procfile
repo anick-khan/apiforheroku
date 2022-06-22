@@ -1,0 +1,1 @@
+web: uvicorn deploying_ml_model_as_public_api_ngrok:app --host 0.0.0.0 --port $PORT
